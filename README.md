@@ -1,8 +1,10 @@
 <h1>👨‍💻Fanezi Masemola</h1>
 <h3>Software developer:</h3>
 
-<img align="center" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F331859066283409649%2F&psig=AOvVaw3HVY_QCxPkSV6GRUg4E62_&ust=1729595142255000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjw5Kaqn4kDFQAAAAAdAAAAABAE">
+<img src="https://cdn.dribbble.com/users/170025/screenshots/3879900/media/9fccefe242c0c69d2a18760e92160aa9.gif" alt="Coding" width="400" align="center">
+
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fanezi Masemola) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Fanezi Masemola) 
 
 # 💻 Tech Stack:
@@ -18,9 +20,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FaneziLuzett&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=FaneziLuzett&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
